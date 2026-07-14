@@ -1,0 +1,22 @@
+# Environments
+.env
+.env.*
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# Python cache and virtual environment
+__pycache__/
+*.pyc
+venv/
+backend/venv/
+
+# Build folders
+dist/
+build/
+frontend/dist/
+
+# Uploads / Storage
+backend/storage/
+backend/temp_uploads/

@@ -1,0 +1,10 @@
+{
+  "appId": "com.studyassistant.app",
+  "appName": "Study Assistant",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "http",
+    "cleartext": true
+  }
+}
